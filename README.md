@@ -1,7 +1,10 @@
 
 [CONNECTING TO fs0c13ty_MAINFRAME...]
+
 [██████████████████] 100%
+
 [BYTEPASS: *************]
+
 [ROOT ACCESS: GRANTED]
 
 USER: ealderson
