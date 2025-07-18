@@ -11,7 +11,6 @@ USER: ealderson
 STATUS: [ANONYMOUS]
 TARGET: E-Corp (5.3.2.1.7)
 MISSION: [REDACTED]
-
 >_ EXECUTE PLAN?
 (y)es/(n)o/(s)elf-destruct
 
