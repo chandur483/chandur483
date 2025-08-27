@@ -3,9 +3,8 @@
 </p>
 ____________
 <p align="center">
-  <img src="https://tryhackme.com/img/thm_public_badge_bg.svg" alt="TryHackMe Badge" width="400">
+  <img src="Screenshot%202025-08-27%20at%2010-42-51%20TryHackMe%20El10t.png" alt="TryHackMe Badge" width="400">
 </p>
-
 
 _________________________________________________________________________________________________________________________________
 
@@ -17,7 +16,4 @@ Currently: Building Automation & Pentest Scripts
 Motto:  Secure the Future.
 ______________________
 
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/El10t..png" alt="TryHackMe Badge" width="300"/>
-</p>
 
