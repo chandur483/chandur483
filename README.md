@@ -33,9 +33,16 @@ ________________________________________________________________________________
     <sub><b>Intro to Offensive Security</b></sub>
   </a>
 </p>
+____________________________________________________________________________________________________________________
 
-
-
+          [*] Cracking Password....
+          [*] Initializing Brute Force...
+          [*] Trying 0x5F3A1B...
+          [*] Trying 0xA2B7C4...
+          [*] Access Granted!
+--------------------------------------------------------------------------------------------------------------          
+[![Join TryHackMe](https://img.shields.io/badge/Join-TryHackMe-green?style=for-the-badge)](https://tryhackme.com/p/El10t)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-El10t-blue?style=for-the-badge)](https://tryhackme.com/p/El10t) 
 ___________________________________________________________________________________________________________________________
 
 ## 🕵️ **About Me**
@@ -44,7 +51,17 @@ Role: Offensive Security Learner | Red Team Enthusiast
 Focus: Web Pentesting | API Hacking | Active Directory
 Currently: Building Automation & Pentest Scripts
 Motto:  Secure the Future.
-______________________
+________________________________________________
 
-![Attacking AD Badge](https://tryhackme.com/img/badges/attackingad.svg)
+┌───────────────────────────────┐
+│   TRYHACKME STATS - EL10t     │
+├───────────────────────────────┤
+│  Rank            :  46,854    │
+│  Badges          :  18        │
+│  Completed Rooms :  126       │
+└───────────────────────────────┘
+
+
+__________________________________________________________________________________________________________________________
+
 
