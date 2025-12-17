@@ -1,0 +1,10 @@
+Mimikatz is a Windows post-exploitation tool written by Benjamin Delpy (@gentilkiwi). It allows for the extraction of clear-text passwords, hashes and Kerberos tickets from memory. 
+
+The SAM (Security Account Manager) database, is a database file on Windows systems that stores hashed user passwords. 
+
+Mimikatz can be used to extract hashes from the lsass.exe process memory where hashes are cached. 
+
+We can utilize the pre-compiled mimikatz executable, alternatively, if we have access to a meterpreter session on a Windows target, we can utilize the inbuilt meterpreter extension Kiwi
+
+**Note: Mimikatz will require elevated privileges in order to run correctly
+

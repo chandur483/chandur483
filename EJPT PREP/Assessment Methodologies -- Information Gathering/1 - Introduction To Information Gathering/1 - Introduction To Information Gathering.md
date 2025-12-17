@@ -1,0 +1,11 @@
+Passive Information Gathering
++ Identifying IP addresses & DNS information.
++ Identifying domain names and domain ownership information. 
++ Identifying email addresses and social media profiles.
++ Identifying web technologies being used on target sites. 
++ Identifying subdomains. 
+
+ Active Information Gathering 
++ Discovering open ports on target systems. 
++ Learning about the internal infrastructure of a target network/organization. 
++ Enumerating information from target systems.

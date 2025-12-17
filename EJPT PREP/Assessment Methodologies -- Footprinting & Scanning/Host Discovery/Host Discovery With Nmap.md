@@ -1,0 +1,3 @@
+- `nmap -sn 192.32.144.99` → run **host discovery only** using Nmap’s **default** discovery probes (ICMP echo, ICMP timestamp, TCP probes to common ports, ARP on local LAN, etc.). No port scan will be performed. [Nmap+1](https://nmap.org/book/host-discovery-techniques.html?utm_source=chatgpt.com)
+    
+- `nmap -sn -PS 192.32.144.99` → run **host discovery only** but **use TCP SYN probes** (`-PS`) as the discovery technique you explicitly requested. When you specify a `-P*` option like `-PS`, it **replaces** the default discovery probes with the ones you asked for (rather than adding to them). So Nmap will send SYNs to the port(s) you specify (or its built-in probe ports if you didn’t list ports).
